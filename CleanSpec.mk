@@ -49,3 +49,5 @@ $(call add-clean-step, rm -rf $(OUT_DIR)/target/common/obj/APPS/CorpApp_intermed
 # ************************************************
 # NEWER CLEAN STEPS MUST BE AT THE END OF THE LIST
 # ************************************************
+
+# initiate build with this check-in
